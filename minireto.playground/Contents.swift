@@ -1,5 +1,7 @@
 //: Playground - noun: a place where people can play
 
+//Mini Reto
+
 import UIKit
 
 for num in 0...100 {
@@ -51,4 +53,7 @@ for num in 0...100 {
 
 
 }
+
+
+
 
